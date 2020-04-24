@@ -1,0 +1,6 @@
+nltk
+tensorflow
+keras
+sklearn
+deepsegment
+numpy
